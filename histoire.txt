@@ -28,3 +28,13 @@ L'enfant tomba le premier et la sénatrice, avant tout une mère,
 vous allez trop vite 
 vous allez trop vite 
 laissez moi gagner
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Je veux pas lire
+=======
+>>>>>>> 9b5ca17633587a05e306c9fb3b52dc43ddbbb4c2
+Un matin au Sénat Galactique.
+>>>>>>> a25e6acc1e78dbb31488e3aba5cb3b78bb4ae458
+Le roi de l'espace déclara
+>>>>>>> 62a3afe3c03858c657db39caef5f1752863c5da6
