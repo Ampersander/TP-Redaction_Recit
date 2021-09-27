@@ -24,5 +24,11 @@ liquide amniotique
 je fais un commit 
 liquide amniotique
 Aromatisé au café pour donner l'illusion.
+<<<<<<< HEAD
 vous allez trop vite Un matin au Sénat Galactique.
+Un matin au Sénat Galactique.
+=======
+vous allez trop vite 
+laissez moi gagner
+>>>>>>> 9b5ca17633587a05e306c9fb3b52dc43ddbbb4c2
 Un matin au Sénat Galactique.
