@@ -30,10 +30,8 @@ Un matin au Sénat Galactique.
 =======
 vous allez trop vite 
 laissez moi gagner
-<<<<<<< HEAD
 Je veux pas lire
-=======
->>>>>>> 9b5ca17633587a05e306c9fb3b52dc43ddbbb4c2
 Un matin au Sénat Galactique.
->>>>>>> a25e6acc1e78dbb31488e3aba5cb3b78bb4ae458
 c'EST TROP DURE je sais pas aller vite
+Le roi de l'espace déclara
+OSKOUR
