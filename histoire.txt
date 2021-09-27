@@ -24,6 +24,7 @@ liquide amniotique
 je fais un commit 
 liquide amniotique
 Aromatisé au café pour donner l'illusion.
+<<<<<<< HEAD
 vous allez trop vite Un matin au Sénat Galactique.
 Un matin au Sénat Galactique.
 vous allez trop vite 
@@ -65,3 +66,9 @@ de l'ardoise par le commissariat.
 Il était criblé de balles
 et la Moto Volante était garée à coté.
 ainsi s'acheva les vacances de
+=======
+L'enfant tomba le premier et la sénatrice, avant tout une mère, 
+vous allez trop vite 
+vous allez trop vite 
+laissez moi gagner
+>>>>>>> origin/master
