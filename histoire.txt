@@ -28,14 +28,11 @@ vous allez trop vite Un matin au Sénat Galactique.
 Un matin au Sénat Galactique.
 vous allez trop vite 
 laissez moi gagner
-<<<<<<< HEAD
 Je veux pas lire
 Un matin au Sénat Galactique.
 c'EST TROP DURE je sais pas aller vite
-=======
 On joue pour gagner ici
 Je veux pas lire
 Un matin au Sénat Galactique.
->>>>>>> 8d7e61e420ce847e08ad39d6ad65ce5cc7724e92
 Le roi de l'espace déclara
-OSKOUR
+OSKOUR !!!
