@@ -17,9 +17,4 @@ A bord de vaisseaux spatiaux opérant à partir d'une base cachée dans la galax
 Et pour boire un café au StarWarsBucks.
 Enfin, c'est ce qu'ils pensaient
 Ce n'était pas du café mais
-<<<<<<< HEAD
 Au secours de l'aide
-=======
-
-
->>>>>>> 7404a24b7a500c675282f9b23c6bded36f495927
